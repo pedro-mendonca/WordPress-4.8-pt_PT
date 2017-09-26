@@ -1,0 +1,2 @@
+# WordPress-4.8-pt_PT
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c381a1cf6ea0424a9c2c39ed0f2a42bd)](https://www.codacy.com/app/pedro-mendonca/WordPress-4.8-pt_PT?utm_source=github.com&utm_medium=referral&utm_content=pedro-mendonca/WordPress-4.8-pt_PT&utm_campaign=badger)
